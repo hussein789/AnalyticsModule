@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analytics App</string>
+    <string name="title_activity_analytics_screen">AnalyticsScreen</string>
+</resources>
